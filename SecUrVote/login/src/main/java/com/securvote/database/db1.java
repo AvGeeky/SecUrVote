@@ -132,9 +132,7 @@ public class db1 {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println(getUser("SC1"));
-    }
+ 
 
 
 }
