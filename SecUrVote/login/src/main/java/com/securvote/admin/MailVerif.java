@@ -204,11 +204,7 @@ public class MailVerif {
         return otp;
     }
 
-    public static void main(String[] args) {
-
-
-        mailsender("sai.saip2005@gmail.com","1234");
-    }
+  
 
 }
 
